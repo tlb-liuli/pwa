@@ -1,0 +1,35 @@
+{
+  "short_name": "ウエディング",
+  "name": "マイナビウエディング",
+  "icons": [
+    {
+      "src": "/sp/img/manifest_icon_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/sp/img/manifest_icon_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/sp/img/manifest_icon_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/sp/img/manifest_icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/sp/img/manifest_icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "FFFFFF",
+  "theme_color": "FF5078",
+  "start_url": "/sp/?utm_source=home_screen&utm_medium=pwa",
+  "display": "standalone" 
+}
